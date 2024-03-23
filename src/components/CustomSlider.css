@@ -1,0 +1,13 @@
+/* CustomSlider.css */
+
+  /* CustomSlider.css */
+.slick-dots li.slick-active button:before {
+    color: #10C66F; /* Change this to the desired color */
+  }
+  
+  /* CustomSlider.css */
+
+  .slick-dots li button:before {
+    font-size: 13.167px; /* Change this to the desired dot size */
+    /* Change this to the desired dot color */
+}
